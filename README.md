@@ -1,9 +1,6 @@
 ### Hello, Madhvendra here!👋
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on improving my skills
 - 🌱 I’m currently learning Web Development and ML 
 - 💬 Ask me about any tech stuff
