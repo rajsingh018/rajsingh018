@@ -1,13 +1,11 @@
 ### Hello, Madhvendra here!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- 🔭 I’m currently working on improving my skills
-- 🌱 I’m currently learning Web Development and ML 
-- 💬 Ask me about any technical stuff
+- 🔭 I’m currently working on improving my skills and learning Web Development and ML 
 - 👩‍💻 Python | C++ | Java | HTML | CSS | Javascript
-- 📫 How to reach me: Twitter- @__rajsingh___
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I don't have any(and it is a fun fact)🙂
+- Twitter- @____rajsingh____
+-  He/His
+
 
 <hr>
 
