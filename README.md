@@ -11,10 +11,10 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=your-github-nandiniinj&style=flat-square&color=232323">
 <hr>
 
-<hr>
+
 
 ![Madhvendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajsingh018&theme=midnight-purple&show_icons=true)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajsingh018&layout=compact&theme=radical&hide_border=true)](https://github.com/rajsingh018) /
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajsingh018&layout=compact&theme=radical&hide_border=true)](https://github.com/rajsingh018) 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rajsingh018&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
