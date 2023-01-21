@@ -7,23 +7,33 @@
 -  He/His
 
 
+<br>
+<img align="right" src="https://komarev.com/ghpvc/?username=your-github-nandiniinj&style=flat-square&color=232323">
+<hr>
+
 <hr>
 
 ![Madhvendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajsingh018&theme=midnight-purple&show_icons=true)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajsingh018&layout=compact&theme=radical&hide_border=true)](https://github.com/rajsingh018) \
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rajsingh018&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
+
+
 <!-- Actual text -->
 
 # Reach me :
 [![Twitter][1.4]][1]  [![LinkedIn][2.4]][2] [![Instagram][4.4]][4] \
 [![G-mail][3.4]][4] msraj21072003@gmail.com
+
+
 <!-- Icons -->
 
 [1.4]: https://img.icons8.com/color/48/000000/twitter--v1.png
 [2.4]: https://img.icons8.com/fluent/48/000000/linkedin.png
 [3.4]: https://img.icons8.com/color/48/000000/gmail.png
 [4.4]: https://img.icons8.com/color/48/000000/instagram-new--v2.png
+
+
 
 <!-- Links to your social media accounts -->
 
